@@ -1,0 +1,4 @@
+homepage: "https://dmsales.com"
+versions:
+  - sha: ##############################
+    changeNotes: Initial release.
