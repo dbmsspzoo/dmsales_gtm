@@ -1,4 +1,4 @@
 homepage: "https://dmsales.com"
 versions:
-  - sha: 35754ec056c3ecd4a84302e7c4e6e2507d93c641
+  - sha: 08a0e2c8804640cabb17584e019f2be1ecf64f0d
     changeNotes: Initial release.
